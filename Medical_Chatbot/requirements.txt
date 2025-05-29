@@ -8,5 +8,6 @@ langchain-openai
 sentence-transformers
 chromadb
 python-dotenv
+pinecone-client
 protobuf==3.20.0
 pysqlite3-binary
